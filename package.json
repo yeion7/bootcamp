@@ -4,9 +4,12 @@
   "description": "bootcamp comparamejor",
   "main": "index.js",
   "scripts": {
+    "serve": "serve .",
     "dev1": "nodemon ./1/index.js"
   },
   "author": "Yeison Daza <@yeion7>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "serve": "^6.4.5"
+  }
 }
