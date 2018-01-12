@@ -1,0 +1,12 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "bootcamp comparamejor",
+  "main": "index.js",
+  "scripts": {
+    "dev1": "nodemon ./1/index.js"
+  },
+  "author": "Yeison Daza <@yeion7>",
+  "license": "MIT",
+  "dependencies": {}
+}
